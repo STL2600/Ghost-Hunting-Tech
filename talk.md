@@ -1,5 +1,5 @@
-% Talk Title
-% Your Name <your@email>
+% Ghost Hunting Tech
+% Rob <robert@rtward.com> & Joe <kamikazejoe@gmail.com>
 %![](static/qrcode.png)<br/>Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
 # Important Header
@@ -32,7 +32,7 @@ An important image
 
 ---
 
-Your Name <your@email>
+Rob <robert@rtward.com> & Joe <kamikazejoe@gmail.com>
 
 ![](static/qrcode.png)
 
