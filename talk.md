@@ -2,31 +2,93 @@
 % Rob <robert@rtward.com> & Joe <kamikazejoe@gmail.com>
 %![](static/qrcode.png)<br/>Talk: [${TALK_URL}](${TALK_URL})<br/>Repo: [${REPO_URL}](${REPO_URL})
 
-# Important Header
+# Intro
 
-## First Page
+# Analog Tech
 
-- My
-- Talk
-- Outline
-
-## Content Page
-
-Some important info
+## Oujia Board
 
 ::: notes
 
-Some speaker notes here
+Rob
 
 :::
 
-# Next Big Section
+## Spirit Dice
 
-## Content Page 2
+::: notes
 
-An important image
+Joe
 
-![](https://placecats.com/200/300)
+:::
+
+## Dowsing Rods
+
+::: notes
+
+Rob
+
+:::
+
+## Scrying
+
+::: notes
+
+Rob
+
+:::
+
+# Digital Tech
+
+## Laser Grid
+
+::: notes
+
+Joe
+
+:::
+
+## IR Thermometer
+
+::: notes
+
+Rob
+
+:::
+
+## FLIR Camera
+
+::: notes
+
+Joe
+
+:::
+
+## EVP Detectors
+
+::: notes
+
+Rob
+
+:::
+
+## Dead Bell
+
+## Spirit Box
+
+::: notes
+
+Rob
+
+:::
+
+# Apps
+
+::: notes
+
+Joe
+
+:::
 
 # The End
 
