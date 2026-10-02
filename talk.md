@@ -68,6 +68,7 @@ Rob
  - Also called divining or water witching
  - Banned by christian churches (catholic and protestent) since the middle ages
  - Used for finding hidden bombs
+ - Cheap to Expensive
 
 :::
 
@@ -129,11 +130,23 @@ Joe
 
 ## IR Thermometer
 
+![alt text](static/ir-thermometer.png)
+
 ::: notes
 
 Rob
 
+ - Useful 
+
 :::
+
+## The Theory
+
+ - Sudden temperature changes (chills) can indicate the presense of unseen entities
+
+## The Science
+
+ - Sudden temperature changes mean you left a window open
 
 ## FLIR Camera
 
