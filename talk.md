@@ -89,11 +89,33 @@ Rob
 
 ## Scrying
 
+<img src="static/scrying-tools.png" alt="drawing" width="25%"/>
+<img src="static/scrying-ball.png" alt="drawing" width="25%"/>
+
 ::: notes
 
 Rob
 
+ - Another type of divination 
+ - Relies on visions *within* the medium
+ - Has a long history
+ - Intertwined with other forms of divination with no hard definition
+
 :::
+
+## What is it?
+
+ - Using a medium to receive visions
+ - Crystals, flames, water, and mirrors are common
+
+## The Theory
+
+ - Access your subconcious
+ - Receive visions from other planes of existence
+
+## The Science
+
+ - Suggest that people may be accessing hallucinations or altered conciousness
 
 # Digital Tech
 
