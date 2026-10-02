@@ -136,7 +136,8 @@ Joe
 
 Rob
 
- - Useful 
+ - Useful for cooking and HVAC work as well
+ - A very good one will set you back $100
 
 :::
 
@@ -158,17 +159,67 @@ Joe
 
 ## EMF Detectors
 
+![alt text](static/emf-detector.png)
+
 ::: notes
 
 Rob
+
+ - Electromagentic Field Detector
+ - Can be useful for tracking down interference
+ - $100 - $300
 
 :::
 
-## EVP Detectors
+## What is it?
+
+ - A device for detecting electromagentic fields
+ - Not quite the same as a reciever
+ - "Probes" should disturb the fields less than an antenna
+ - Can operate on a single or multiple axis
+
+## The Theory
+
+ - Ghosts and other supernatural phonomena interact with the EM spectrum
+
+## The Science
+
+ - They're useful tools for all sorts of engineering work
+
+
+## EVP Recorder
+
+![alt text](static/voice-recorder.png)
 
 ::: notes
 
 Rob
+
+ - Could be as simple as a digital voice recorder
+ - Could be a dedicated piece of hardware
+ - Cheap to **very** expensive
+
+:::
+
+## What is it?
+
+ - Often just a voice recorder
+ - Can be an RF reciever
+
+## The Theory
+
+ - Similar to EMF
+ - Ghosts can interact with electrical fields
+
+## The Science
+
+ - Many people claim to hear voices in recordings
+ - Other explanations
+ - Pareidolia
+
+::: notes
+
+ - e.g. interference, pareidolia
 
 :::
 
@@ -176,11 +227,27 @@ Rob
 
 ## Spirit Box
 
+![alt text](static/spirit-box.png)
+
 ::: notes
 
 Rob
 
+ - Kind of a combined EMF detector and EVP recorder
+ - Can get very expensive
+ - US detected EM fields to produce output
+
 :::
+
+## The Theory
+
+ - Similar to EMF
+ - Scanning radio frequencies rapidly
+ - Assebles a signal from the noise
+
+## The Science
+
+ - Pareidolia
 
 # Apps
 
