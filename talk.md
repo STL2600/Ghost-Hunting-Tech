@@ -8,9 +8,41 @@
 
 ## Oujia Board
 
+![alt text](static/ouija-board.png)
+
 ::: notes
 
 Rob
+
+ - Around since the 1800s
+ - Evolution of "talking boards"
+ - Name doesn't mean anything, was just a trademark
+ - The board supposedly named itself
+ - Was considered a game until the early 1900s
+ - Fairly cheap (just wait until later in the talk)
+
+:::
+
+## What is it?
+
+ - Latin Alphabet, Numbers, and Yes / No
+ - A "Planchette" (pointing device)
+ 
+## The Theory
+
+ - A user or users place their hands on the planchette
+ - Spirits will move them to communicate
+ 
+## The Science
+
+ - Ideomotor effect
+
+::: notes
+
+Rob
+
+ - Used to describe any "unconcious" motor movement
+ - Long studied phenomenon in both scientific and paranormal circles
 
 :::
 
@@ -61,6 +93,14 @@ Rob
 ::: notes
 
 Joe
+
+:::
+
+## EMF Detectors
+
+::: notes
+
+Rob
 
 :::
 
