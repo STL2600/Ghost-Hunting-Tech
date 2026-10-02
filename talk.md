@@ -221,6 +221,9 @@ Even if it's some kind of ominous shadow, that is also sometimes reported, that'
 
 ## The Science
 
+- Actually pretty sound
+- Don't read into things that aren't there
+
 ::: notes
 
 Joe
@@ -306,6 +309,9 @@ And you can also see people, even when behind an obstruct (provided that obstruc
 :::
 
 ## The Science
+
+- IR Cameras only see surface temps
+- Reflective surfaces can be a problem
 
 ::: notes
 
@@ -514,6 +520,10 @@ As with other EMF or EVP devices, the idea is to provide raw audio material that
 :::
 
 ## The Science
+
+- Randomness is incredibly complicated
+- Modern phones are design to resist interference
+- Mostly a scam
 
 ::: notes
 
