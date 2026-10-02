@@ -56,11 +56,36 @@ Joe
 
 ## Dowsing Rods
 
+<img src="static/dowsing-rods.png" alt="drawing" width="25%"/>
+<img src="static/dowsing-twig.png" alt="drawing" width="25%"/>
+
 ::: notes
 
 Rob
 
+ - A type of "divination" used to locate things
+ - Commonly used for finding water, ore deposits, oil, graves, or other specific spots
+ - Also called divining or water witching
+ - Banned by christian churches (catholic and protestent) since the middle ages
+ - Used for finding hidden bombs
+
 :::
+
+## What is it?
+
+ - Most common types are:
+ - A Y shaped twig of willow or hazel
+ - Two L shaped rods
+
+## The Theory
+
+ - "Eminations" from the obejct in question move the rods
+ - The rods are a tool for unconcious thought
+
+## The Science
+
+ - Multiple studies show they're no more effective than random chance
+ - Likely the ideomotor effect
 
 ## Scrying
 
